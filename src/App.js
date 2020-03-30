@@ -8,7 +8,7 @@ class App extends Component {
       <div>
         <Header />
         <main style={{ marginTop: "64px" }}>
-          <p>this is fucking shit</p>
+          <p>My navigationBar :)</p>
         </main>
       </div>
     );
